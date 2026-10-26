@@ -1,4 +1,4 @@
-"""CLI interface for project_name project.
+"""CLI interface for dasp2627_ai_agents_cowriting_humans_ project.
 
 Be creative! do whatever you want!
 
@@ -12,7 +12,7 @@ Be creative! do whatever you want!
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m project_name` and `$ project_name `.
+    `python -m dasp2627_ai_agents_cowriting_humans_` and `$ dasp2627_ai_agents_cowriting_humans_ `.
 
     This is your program's entry point.
 
